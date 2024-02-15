@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm interested in implementing AI in medicine. My current focus is on Diabetic related wounds. <br/>
+Check out my page @ http://individual.utoronto.ca/reza_basiri/
